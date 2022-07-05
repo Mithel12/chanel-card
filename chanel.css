@@ -1,0 +1,56 @@
+body
+{
+    background-color: rgb(233, 223, 223);
+}
+ .row
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    height: 350px;
+    width: 500px;
+    border-radius: 15px;
+}
+
+.img-fluid
+{
+    height: 359px;
+    
+}
+
+.textmuted
+{
+    font-weight: 100;
+}
+
+.num
+{
+    color:Dark grayish hsl(228, 12%, 48%);
+    font-family:Gorga Grotesque;
+    font-size:x-large;
+}
+button
+{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: rgb(6, 100, 61);
+    color: white;
+    font-size: small;
+    align-items: center;
+    width: 200px;
+}
+.card-title{
+
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+}
+.card-text
+{
+    filter: blur(0.5px);
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+   font-size: 14px;
+   color:rgb(146, 132, 132)
+}
